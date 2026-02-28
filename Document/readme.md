@@ -1,0 +1,3 @@
+Explore with AI: Custom Itineraries for Your Next Journey is an AI-powered travel planning web application that generates personalized, day-wise travel itineraries based on the user’s selected destination and trip duration. The system integrates Google’s Gemini AI model with a Streamlit-based interface to automatically create structured travel plans, including recommended attractions and activities.
+
+The main objective of this project is to simplify travel planning by leveraging Generative AI technology. By combining artificial intelligence with an interactive web interface, the application provides users with quick, customized, and efficient travel recommendations.
